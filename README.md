@@ -47,7 +47,7 @@ The candidate will be evaluated on:
 ## Getting Started
 1. Clone this repository
 2. Install dependencies: `npm install`
-3. Start the development server: `npx vite`
+3. Start the development server: `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Available Scripts
