@@ -14,7 +14,7 @@ This is a live coding task designed to evaluate a candidate's ability to work wi
    - Handle potential errors gracefully
 
 ### Technical Requirements
-- Use React (Create React App or Vite)
+- Use React (Vite)
 - Implement proper error handling
 - Use modern React practices (hooks, functional components)
 - Write clean, maintainable code
@@ -46,8 +46,8 @@ The candidate will be evaluated on:
 
 ## Getting Started
 1. Clone this repository
-2. Install dependencies: `yarn install`
-3. Start the development server: `yarn start`
+2. Install dependencies: `npm install`
+3. Start the development server: `npx vite`
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Available Scripts
